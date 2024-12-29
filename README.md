@@ -1,6 +1,6 @@
 # 👋 **Hi, I'm Emiliano Rozas!**
 
-**Senior Team Lead | Full-Stack Developer | Passionate About Building and Leading Tech Solutions**  
+**Team Lead | Full-Stack Developer | Passionate About Building and Leading Tech Solutions**  
 📍 **Barcelona, Spain**
 
 ---
